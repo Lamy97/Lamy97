@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h4> My name is Lamyae RJF </h4>
+<h4> My name is Lamyae RJF, an engineering student  </h4>
 
 <h5>Here are some infos about me: </h5>
 
